@@ -1,4 +1,4 @@
-# ED-Trabalho-2-range-query
+# Trabalho 2 - Estrutura de Dados
 Trabalho 2 de Estrutura de Dados sobre range query
 
 O trabalho consiste em adaptar a AVL para que ela suporte range query (busca por intervalos). 
